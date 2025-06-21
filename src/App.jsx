@@ -1,10 +1,9 @@
 import React from "react";
 import './globals.css'
-import Counter from './Counter'; // Adjust path if it's in a subfolder
+import Counter from './Counter'; 
 
 function App() {
-  return
-   <>
+  return<>
    <Counter/>
    </>;
 }
